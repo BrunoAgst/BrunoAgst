@@ -2,7 +2,7 @@
 
 
 - Computer Engineer 👨🏽‍💻 
-- Backend Developer 💻
+- Backend Engineer 💻
 - Guarulhos - SP 🇧🇷
 
 <img align='right' src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="230">
