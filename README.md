@@ -1,7 +1,7 @@
 # Hey, I'm Bruno 🤙🏽 
 
 
-- Computer Engineer 👨🏽‍💻 
+- Computer Engineer 🎓
 - Backend Engineer 💻
 - Guarulhos - SP 🇧🇷
 
