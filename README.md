@@ -26,7 +26,6 @@
   <img align="center" alt="raspberrypi" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg">
   <img align="center" alt="amazon" height="25" width="30" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
   <img align="center" alt="c" height="25" width="30" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-  <img align="center" alt="c++" height="25" width="30" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="arduino" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
   <img align="center" alt="golang" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
 </div>
