@@ -8,7 +8,8 @@
 <img align='right' src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="230">
 
 ![BrunoAgst GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoAgst&hide=contribs,prs&theme=tokyonight)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoAgst&hide=python,vue,html,css&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoAgst&hide=python,vue,html,css&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![wakatime](https://wakatime.com/badge/user/b3f64f87-32b4-478f-8d14-f7c134ae0a26.svg)](https://wakatime.com/@b3f64f87-32b4-478f-8d14-f7c134ae0a26)
 
 ## Technologies I study and/or work
 <div>
@@ -16,13 +17,12 @@
     <img align="center" alt="typescript" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="nodejs" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="express" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="nestjs" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
   <img align="center" alt="npm" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
   <img align="center" alt="linux" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="git" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="mongodb" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="redis" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
-  <img align="center" alt="postgresql" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="postgresql" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="raspberrypi" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg">
   <img align="center" alt="amazon" height="25" width="30" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
   <img align="center" alt="c" height="25" width="30" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
