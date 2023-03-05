@@ -9,7 +9,6 @@
 
 ![BrunoAgst GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoAgst&hide=contribs,prs&theme=tokyonight)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoAgst&hide=python,vue,html,css&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![wakatime](https://wakatime.com/badge/user/b3f64f87-32b4-478f-8d14-f7c134ae0a26.svg)](https://wakatime.com/@b3f64f87-32b4-478f-8d14-f7c134ae0a26)
 
 ## Technologies I study and/or work
 <div>
