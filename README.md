@@ -5,7 +5,7 @@
 - Backend Engineer 💻
 - Guarulhos - SP 🇧🇷
 
-<img align='right' src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2I5MGYxMGYzM2E2ZmUxODRjYWY1MTg0YWI1NWM2ODFhYjZiZjljZSZjdD1n/bi6RQ5x3tqoSI/giphy.gif" width="500">
 
 ![BrunoAgst GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoAgst&hide=contribs,prs&theme=tokyonight)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoAgst&hide=python,vue,html,css&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)<br>
